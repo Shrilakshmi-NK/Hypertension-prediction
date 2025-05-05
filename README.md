@@ -7,11 +7,12 @@ This project predicts hypertension risk using health features like Age, Gender, 
 
 **ALGORITHMS USED**
 
-+Random Forest Classifier
+•Random Forest Classifier
 
-+XGBoost Classifier (Extreme Gradient Boosting)
+•XGBoost Classifier (Extreme Gradient Boosting)
 
-+SMOTE
+•SMOTE
 
 **DATASET USED**
+
 Personalized Medication Dataset
